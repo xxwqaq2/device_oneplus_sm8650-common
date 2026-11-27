@@ -1,0 +1,2 @@
+# Dolby Codec2 component store (IComponentStore/default1)
+/vendor/bin/hw/vendor\.dolby\.media\.c2@1\.0-service    u:object_r:mediacodec_exec:s0
